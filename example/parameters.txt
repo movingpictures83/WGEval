@@ -1,0 +1,2 @@
+inputfile	1.sam
+command	unique
